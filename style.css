@@ -1,0 +1,326 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+.container {
+            margin: 0 auto;
+            max-width: 1170px;
+           
+        }
+
+
+
+        
+
+ body {
+            background-color: #e0e0d1;
+           
+            
+        }
+        .container {
+            margin: 0 auto;
+            max-width: 1170px;
+           
+        }
+        nav { 
+            background-color: #d7d7c1;
+            padding: 10px;
+        
+        }
+        img {
+            
+            height: 50px;
+            
+            
+        }
+        .navbar-text {
+            float: right;
+            display: inline-block;
+        }
+        .navbar-text ul {
+            list-style-type: none;
+            display: inline-block;
+        }
+        .navbar-text li {
+            float: left;
+            padding: 20px 0;
+        }
+        .navbar-text a {
+            color: white;
+            padding: 5px;
+            text-decoration: none;
+            
+            
+        }
+
+         header{
+             
+             color: white;
+             background: #1f1f14;
+             padding: 250px 0;
+             text-align: center;
+             line-height: 2rem;
+         }
+
+
+.container2{
+    margin: 0 auto;
+    max-width: 1170px;
+    background: white;
+    display: grid;
+    grid-auto-columns: 1fr;
+    grid-gap: 10px;
+}
+
+.container2  p{
+    padding:  10px 0;
+    color: #b9b992;
+    
+}
+
+
+
+.div1{
+    padding: 30px;
+    grid-column: 1 / 13;
+    
+}
+
+.div1 button{
+    
+    float: right;
+    margin: 0 10px;
+    
+}
+
+
+.div2{
+    height: 250px;
+    background: #d7d7c1;
+    grid-column: 1 / 7;
+    margin:0 20px;
+    
+}
+
+
+.div22{
+    grid-column: 1 / 7;
+    margin: 0 20px;
+}
+
+.div3{
+    height: 250px;
+    background: #d7d7c1;
+    grid-column: 1 / 7;
+    margin: 20px 20px;
+    grid-row: 4;
+    
+    
+}
+
+.div33{
+    grid-column: 1 / 7;
+    margin: 0 20px;
+}
+
+.div4{
+    height: 250px;
+    background: #d7d7c1;
+    grid-column: 7 / 13;
+    margin: auto 20px;
+    grid-row:2
+    
+    
+}
+
+.div44{
+    grid-column: 7 / 13;
+    grid-row:3;
+    margin: 0 20px;
+}
+
+.div5{
+    height: 250px;
+    background: #d7d7c1;
+    grid-column: 7 / 13;
+    margin:  20px;
+    grid-row:4;
+    
+    
+}
+
+.div55{
+    grid-column: 7 / 13;
+    margin: 0 20px;
+    grid-row: 5;
+}
+
+
+
+    
+ button {  
+    padding: 10px 30px;
+    color: white;
+    background: #00cc00;
+}
+
+
+.div6{
+    height: 250px;
+    background: #d7d7c1;
+    grid-column: 1 / 5;
+    padding: 10px 0;
+    margin: 20px;
+}
+
+.div7{
+    
+    height: 250px;
+    background: #d7d7c1;
+    grid-column: 5 / 9;
+    padding: 10px 0;
+    margin:20px;
+    
+}
+
+.div8{
+    
+    height: 250px;
+    background: #d7d7c1;
+    grid-column: 9 / 13;
+    padding: 10px 0;
+    margin: 20px;
+}
+
+
+.div9{
+    
+    height: 250px;
+    background: #d7d7c1;
+    grid-column: 1 / 5;
+    padding: 10px 0;
+    margin: 20px;
+    
+    
+}
+
+.div10{
+    
+    height: 250px;
+    background: #d7d7c1;
+    grid-column: 5 / 9;
+    padding: 10px 0 ;
+    margin: 20px;
+    
+    
+}
+.div11{
+    
+    height: 250px;
+    background: #d7d7c1;
+    grid-column: 9 / 13;
+    padding: 10px 0;
+    margin: 20px;
+    
+    
+}
+
+
+.div12{
+    padding: 30px;
+    grid-column: 1 / 13;
+    
+}
+
+.div13{
+   padding: 30px;
+    grid-column: 1 / 13;
+}
+
+
+       .container3{
+        margin: 0 auto;
+        max-width: 1170px;
+        }
+
+       .footer{
+        background-color: #d7d7c1;
+        padding: 10px; 
+        }
+
+         footer { 
+           background-color: #1f1f14;
+           padding: 40px;
+    
+        }
+
+
+        .footer-text {
+            float: left;
+            display: inline-block;
+        }
+        .footer-text ul {
+            list-style-type: none;
+            display: inline-block;
+        }
+        .footer-text li {
+            float: left;
+            padding: px 0;
+        }
+        .footer-text a {
+            color: #e0e0d1;
+            padding: 5px;
+            text-decoration: none;
+            
+            
+            }
+
+
+        .footer-right {
+            float: left;
+            display: inline-block;
+            
+        }
+        .footer-right ul {
+            list-style-type: none;
+            display: inline-block;
+        }
+        .footer-right li {
+            float: left;
+            padding: px 0;
+        }
+        .footer-right a {
+            color: #e0e0d1;
+            padding: 5px;
+            text-decoration: none;
+            
+        }
+      
+            
+          .atcu{
+                
+             border-left: 1px solid gray;
+              
+              }
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
